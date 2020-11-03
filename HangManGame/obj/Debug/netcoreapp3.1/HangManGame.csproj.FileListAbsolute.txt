@@ -1,0 +1,13 @@
+C:\Users\tomso\source\repos\HangManGame\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.exe
+C:\Users\tomso\source\repos\HangManGame\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.deps.json
+C:\Users\tomso\source\repos\HangManGame\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.runtimeconfig.json
+C:\Users\tomso\source\repos\HangManGame\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.runtimeconfig.dev.json
+C:\Users\tomso\source\repos\HangManGame\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.dll
+C:\Users\tomso\source\repos\HangManGame\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.pdb
+C:\Users\tomso\source\repos\HangManGame\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.csprojAssemblyReference.cache
+C:\Users\tomso\source\repos\HangManGame\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.AssemblyInfoInputs.cache
+C:\Users\tomso\source\repos\HangManGame\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.AssemblyInfo.cs
+C:\Users\tomso\source\repos\HangManGame\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.csproj.CoreCompileInputs.cache
+C:\Users\tomso\source\repos\HangManGame\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.dll
+C:\Users\tomso\source\repos\HangManGame\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.pdb
+C:\Users\tomso\source\repos\HangManGame\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.genruntimeconfig.cache
